@@ -1,30 +1,5 @@
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
 
----
-output: 
-  pdf_document:
-    keep_tex: true
-    fig_caption: yes
-    latex_engine: pdflatex
-    template: template.tex
-geometry: margin=1in
-
-title: "STAT 510: Statistical Consulting Seminar"
-author: Andrew Hoegh
-date: "Fall 2022"
-
-email: "andrew.hoegh@montana.edu"
-web: "stat505.github.io"
-officehours: "Tu 10:45 - 12, Fr 11:30 - 1"
-office: "Wilson Hall 2-241"
-classroom: "*Wilson Hall 2-274*"
-classhours: "Tues 12:15-1:30"
-
-fontfamily: mathpazo
-fontsize: 11pt
-header-includes:
-   - \linespread{1.05}
----
 
 
 # Course Description
