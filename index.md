@@ -1,4 +1,4 @@
-A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
+A [PDF of the syllabus](https://github.com/STAT575/syllabus/blob/main/syllabus2022.pdf) is available.
 
 
 
@@ -59,31 +59,30 @@ Please evaluate your own health status regularly and refrain from attending clas
 
 Course Schedule
 
-### Week One:
+### Week One: Thursday August 25 - Course Overview 
 
-- Weekly Notes:
 
-- Weekly Materials:
+- Weekly Materials: 
+  - [MSU Writing Projects](https://math.montana.edu/documents/statwritingprojects.html)  
+  - [Video 1: Countering sterotypical views of statisticians](https://sites.google.com/view/juliasharp/other-resources/statistical-collaboration-videos/video-topic-1-countering-stereotypical-views-of-statisticians) ([Discussion Questions](https://drive.google.com/file/d/11RvB0FOST1XNkHn67pn14S5A953B4NEY/view))
 
-- Thursday August 25: 
-
----
-
-### Week Two:
-
-- Tuesday August 30: 
 
 ---
 
-### Week Three:
+### Week Two: Tuesday August 30: 
 
-- Tuesday September 6:
+- 
 
 ---
 
-### Week Four:
+### Week Three: Tuesday September 6:
 
-- Tuesday September 13:
+
+
+---
+
+### Week Four: Tuesday September 13
+
 
 ---
 
