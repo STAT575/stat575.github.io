@@ -32,12 +32,11 @@ You will earn a letter grade for the class (A,B,C,D,F). Please feel free to talk
 
 At the end of the semester, you will reflect on your performance in the class and rate yourself on the following criteria and write a paragraph evaluating and reflecting on your performance in the class.   These  will  serve  as  prior  information  for  my  final  assigned  scores.   Then  we  will  meet briefly during finals week to discuss your ratings.
 
-1.  Part  of  learning  to  consult  is  developing  as  a  professional  and  that  involves  attending seminars and other professional development opportunities when they don’t conflict with other activities 
-2.  How effective were your handouts and the notes you took during class? 
-3.  How meaningful and helpful were your in-class contributions and how often did you participate?
-4.  Did you make reasonable progress toward finishing your report in a timely manner?  
-5.  How complete and appropriate was your advice and the written report for the client?  
-6.  Overall effectiveness of communication (with client, partners, and me)?  
+1.  How was your performance on weekly modules?
+2.  How meaningful and helpful were your in-class contributions and how often did you participate?
+3.  Did you make reasonable progress toward finishing your reports in a timely manner?  
+4.  Overall effectiveness of communication (with client, partners, and me)?
+5.  Part  of  learning  to  consult  is  developing  as  a  professional  and  that  involves  attending seminars and other professional development opportunities when they don’t conflict with other activities   
 
 ###  Academic Misconduct
 Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
@@ -65,6 +64,7 @@ Course Schedule
 - Weekly Materials: 
   - [MSU Writing Projects](https://math.montana.edu/documents/statwritingprojects.html)  
   - [Video 1: Countering sterotypical views of statisticians](https://sites.google.com/view/juliasharp/other-resources/statistical-collaboration-videos/video-topic-1-countering-stereotypical-views-of-statisticians) ([Discussion Questions](https://drive.google.com/file/d/11RvB0FOST1XNkHn67pn14S5A953B4NEY/view))
+  - [Week 1 Module](https://github.com/STAT575/Modules/blob/main/Module1.md)
 
 
 ---
