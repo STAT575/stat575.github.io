@@ -64,7 +64,7 @@ Course Schedule
 - Weekly Materials: 
   - [MSU Writing Projects](https://math.montana.edu/documents/statwritingprojects.html)  
   - [Video 1: Countering sterotypical views of statisticians](https://sites.google.com/view/juliasharp/other-resources/statistical-collaboration-videos/video-topic-1-countering-stereotypical-views-of-statisticians) ([Discussion Questions](https://drive.google.com/file/d/11RvB0FOST1XNkHn67pn14S5A953B4NEY/view))
-  - [Week 1 Module](https://github.com/STAT575/Modules/blob/main/Module1.md)
+  - [Week 1 Module](https://github.com/STAT575/Modules/blob/main/Module1.md) ([Download GitHub Repo](https://classroom.github.com/a/0WmBJSZ3))
 
 
 ---
