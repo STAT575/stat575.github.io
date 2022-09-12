@@ -18,8 +18,10 @@ Course Schedule
 
 ---
 
-### Week Three: Tuesday September 6:
+### Week Three: Tuesday September 6: ASCCR
 
+- Week 3 Notes - finished Week 2 notes
+- Week 3 Module - bring 2 copies of project proposal to class
 
 
 ---
@@ -37,7 +39,7 @@ Course Schedule
 
 ### Week Six:
 
-- Tuesday September 27:
+- Tuesday September 27: First SCRS Client
 
 ---
 ### Week Seven:
