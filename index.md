@@ -27,7 +27,8 @@ Course Schedule
 ---
 
 ### Week Four: Tuesday September 13
-
+- Week 4 Notes -
+- Week 4 Module: Read [Applied Statistics in Ecology: common pitfalls and simple solutions](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/ES13-00160.10)
 
 ---
 
