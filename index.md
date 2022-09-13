@@ -20,27 +20,24 @@ Course Schedule
 
 ### Week Three: Tuesday September 6: ASCCR
 
-- Week 3 Notes - finished Week 2 notes
+- [Week 3 Notes](https://github.com/STAT575/Notes/blob/main/Week3.pdf) - finished Week 2 notes
 - Week 3 Module - bring 2 copies of project proposal to class
 
 
 ---
 
 ### Week Four: Tuesday September 13
-- Week 4 Notes -
-- Week 4 Module: Read [Applied Statistics in Ecology: common pitfalls and simple solutions](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/ES13-00160.10)
+- [Week 4 Notes](https://github.com/STAT575/Notes/blob/main/Week4.pdf) 
+- [Week 4 Module](https://github.com/STAT575/Module4/blob/main/README.md)
+---
+
+### Week Five: Tuesday September 20:
 
 ---
 
-### Week Five:
+### Week Six: Tuesday September 27: First SCRS Client
 
-- Tuesday September 20:
-
----
-
-### Week Six:
-
-- Tuesday September 27: First SCRS Client
+- Virtual class through Webex
 
 ---
 ### Week Seven:
