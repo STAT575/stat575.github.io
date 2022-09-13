@@ -27,8 +27,10 @@ Course Schedule
 ---
 
 ### Week Four: Tuesday September 13
+
 - [Week 4 Notes](https://github.com/STAT575/Notes/blob/main/Week4.pdf) 
 - [Week 4 Module](https://github.com/STAT575/Module4/blob/main/README.md)
+ 
 ---
 
 ### Week Five: Tuesday September 20:
