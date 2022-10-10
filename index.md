@@ -26,14 +26,14 @@ Course Schedule
 
 ---
 
-### Week Four: Tuesday September 13
+### Week Four: Tuesday September 13: Telling Stories
 
 - [Week 4 Notes](https://github.com/STAT575/Notes/blob/main/Week4.pdf) 
 - [Week 4 Module](https://github.com/STAT575/Module4/blob/main/README.md)
  
 ---
 
-### Week Five: Tuesday September 20:
+### Week Five: Tuesday September 20: Statistical Pitfalls
 
 ---
 
@@ -42,16 +42,16 @@ Course Schedule
 - Virtual class through Webex
 
 ---
-### Week Seven:
-
-- Tuesday October 4:
+### Week Seven: Tuesday October 4: Second SCRS Client
 
 ---
 
-### Week Eight:
+### Week Eight: Tuesday October 11: 
 
-- Tuesday October 11:
-
+- Email communication
+- Project 2 follow up / data visualization and analysis plan
+- Overview of Literature Review / Google Scholar / Bibtek
+- 
 ---
 
 ### Week Nine:
