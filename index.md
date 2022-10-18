@@ -54,15 +54,14 @@ Course Schedule
 - 
 ---
 
-### Week Nine:
+### Week Nine: Tuesday October 18: Stat Consulting Lit Review
 
-- Tuesday October 18:
-
+- Overview of writing project literature reviews
+- Created [statistical consulting literature review](https://docs.google.com/document/d/1LT6lNajD0nUBTHvqxAPfKMHh0UKm_W-pfiBoLWPTkzw/edit)
+- [Writing project GitHub Repo](https://github.com/msu-stats/msstats-wproj-template)
 ---
 
-### Week Ten:
-
-- Tuesday October 25:
+### Week Ten: Tuesday October 25:
 
 ---
 
