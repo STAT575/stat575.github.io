@@ -58,7 +58,7 @@ Course Schedule
 
 - Overview of writing project literature reviews
 - Created [statistical consulting literature review](https://docs.google.com/document/d/1LT6lNajD0nUBTHvqxAPfKMHh0UKm_W-pfiBoLWPTkzw/edit)
-- Link to [Writing project GitHub Repo](https://github.com/msu-stats/msstats-wproj-template)
+- Link to [Writing project GitHub Repo](https://github.com/msu-stats/msstats-wproj-template), clone and invite Andy - ASAP
 ---
 
 ### Week Ten: Tuesday October 25: Discussion of Stat Consulting Lit Review
@@ -70,9 +70,12 @@ Course Schedule
 ### Week Eleven: Tuesday November 1
 
 - Recap of MT Section of ASA Chapter Meeting
+- Short-term & Long-term planning: 
+  - Monday Morning Self Meeting / End of Week Update
+  - ([Bullet Journal](https://www.youtube.com/watch?v=fm15cmYU0IM)) 
+  - ([Every Semester Needs a Plan](https://vimeo.com/133385186))
+- Statistical Consulting Reports: [SCRS Template](https://github.com/scrs-msu/scrsreport)
 - Bibtek / Google Scholar for citation management
-- Short-term & Long-term planning
-- Statistical Consulting Reports
 - Peer Review Process
 
 ---
