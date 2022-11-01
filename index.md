@@ -51,14 +51,15 @@ Course Schedule
 - Email communication
 - Project 2 follow up / data visualization and analysis plan
 - Overview of Literature Review / Google Scholar / Bibtek
-- 
+
 ---
 
 ### Week Nine: Tuesday October 18: Created Stat Consulting Lit Review
 
 - Overview of writing project literature reviews
+- Link to [MSU writing project Repo](https://github.com/msu-stats/msstats-wproj-template), clone and invite Andy
 - Created [statistical consulting literature review](https://docs.google.com/document/d/1LT6lNajD0nUBTHvqxAPfKMHh0UKm_W-pfiBoLWPTkzw/edit)
-- Link to [Writing project GitHub Repo](https://github.com/msu-stats/msstats-wproj-template), clone and invite Andy - ASAP
+
 ---
 
 ### Week Ten: Tuesday October 25: Discussion of Stat Consulting Lit Review
