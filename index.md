@@ -81,9 +81,7 @@ Course Schedule
 
 ---
 
-### Week Twelve:
-
-- Tuesday November 8:
+### Week Twelve: Tuesday November 8: No Class Election Day
 
 ---
 ### Week Thirteen:
